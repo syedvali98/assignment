@@ -1,0 +1,23 @@
+.padd{
+    padding: 20px;
+}
+.padd1{
+    padding: 8px 20px;
+}
+.padd2{
+    height: 8px;
+}
+.padd3{
+    padding: 0 8px 10px;
+}
+.btn-bottom{
+}
+.cus-height{
+    height: 100vh;
+}
+.img-overlay {
+    position: relative;
+    max-width: 500px;
+    color: blueviolet;
+    background-color: blueviolet; 
+}
